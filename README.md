@@ -1,0 +1,1 @@
+# Skillbox_JavaScript-module-7_working-with-arrays_task-3
